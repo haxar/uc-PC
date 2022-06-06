@@ -1,0 +1,41 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP K4S511632C
+D PC100/PC133 Compliant SDRAM, 64Mb (4Mb x 16), TSOP II 54pin
+K SDRAM Synchronus DRAM PC133 PC100 64Mb 4Mbx16
+F http://download.micron.com/pdf/datasheets/dram/sdram/64MSDRAM.pdf
+$ENDCMP
+#
+$CMP LAN8720A
+D LAN8723A
+K RMII ETH PHY, QFN24
+$ENDCMP
+#
+$CMP MT48LC4M16A2P
+D PC100/PC133 Compliant SDRAM, 64Mb (4Mb x 16), TSOP II 54pin
+K SDRAM Synchronus DRAM PC133 PC100 64Mb 4Mbx16
+F http://download.micron.com/pdf/datasheets/dram/sdram/64MSDRAM.pdf
+$ENDCMP
+#
+$CMP MT48LC4M16A2TG
+D PC100/PC133 Compliant SDRAM, 64Mb (4Mb x 16), TSOP II 54pin
+K SDRAM Synchronus DRAM PC133 PC100 64Mb 4Mbx16
+F http://download.micron.com/pdf/datasheets/dram/sdram/64MSDRAM.pdf
+$ENDCMP
+#
+$CMP NAND_flash
+D 8 bit NAND flash TSOP 48
+K NAND flash
+$ENDCMP
+#
+$CMP OV2640
+D OV2640 camera module
+K OV2640
+$ENDCMP
+#
+$CMP USB_MULTI
+D USB A MULIT
+K USB
+$ENDCMP
+#
+#End Doc Library

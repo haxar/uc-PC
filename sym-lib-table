@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ucpc_1_1-rescue)(type Legacy)(uri ${KIPRJMOD}/ucpc_1_1-rescue.lib)(options "")(descr ""))
+  (lib (name tmp)(type Legacy)(uri ${KIPRJMOD}/tmp.lib)(options "")(descr ""))
+)
